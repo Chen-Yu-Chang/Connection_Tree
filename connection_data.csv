@@ -1,7 +1,4 @@
 sr_no,name,email,q1,gender,relation,time,frequency,advice,truth,job,help,rate,rate1,message
-0,Enzo,enzo@gmail.com,hihi,male,Supervisor,"less than 6 months","At least once per week",Never,"Almost every day","Less than once per year","A small amount","Somewhat Agree","Somewhat Disagree",dslkfnoiwenfaw
-2,Enzo,enzo@gmail.com,iris,female,"Family friend","less than 6 months","Almost every day","A few times a year","Less than once per year","Almost every day","A fair amount","Strongly Agree","Neither Agree Nor Disagree",sdjflnaweonfwa
-3,Enzo,enzo@gmail.com,Jim,male,"Significant others/Romantic partner","6 months to a year","At least once per week","At least once per week","A few times a year","A few times a month","A fair amount","Strongly Agree","Somewhat Agree",jdlsnfwaowe
-4,Charlie,cj@gmail.com,pig,male,Neighbor,"6 months to a year","A few times a month","Almost every day","A few times a year","A few times a month","A fair amount","Somewhat Agree","Somewhat Agree",dslfamnewiofa
-5,Charlie,cj@gmail.com,choe,female,"School adults","6 months to a year","A few times a month","A few times a month","At least once per week",Never,"A small amount","Somewhat Agree","Neither Agree Nor Disagree",epieppsa
-6,Charlie,cj@gmail.com,John,male,"Other family members","More than 3 years","A few times a month","A few times a month","Almost every day","Less than once per year","A small amount","Strongly Agree","Somewhat Disagree",dslkfmwle
+0,Enzo,enzo@gmail.com,jing,female,"School adults","6 months to a year","Almost every day","Less than once per year","At least once per week",Never,"A small amount","Strongly Agree","Somewhat Disagree",sdlamfowe
+1,Charlie,ch@gmail.com,ric,male,"School adults","6 months to a year","At least once per week",Never,"At least once per week","Less than once per year","A small amount","Strongly Agree","Somewhat Disagree",kemwofs
+2,Charlie,ch@gmail.com,pig,male,Friend,"6 months to a year","A few times a year","At least once per week","At least once per week","Almost every day","A small amount","Strongly Agree","Somewhat Agree",jdnoweifnoafew

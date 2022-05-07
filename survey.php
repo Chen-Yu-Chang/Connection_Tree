@@ -188,7 +188,7 @@
             }
             if($no_rows > 1)
             {
-                $no_rows = ($no_rows - 1) + 1;
+                $no_rows = ($no_rows - 1);
             }
             $form_data = array(
                 'sr_no'  => $no_rows,
