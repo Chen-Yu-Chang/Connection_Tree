@@ -166,6 +166,26 @@
         {
             $file_open = fopen("connection_data.csv", "a");
             $no_rows = count(file("connection_data.csv"));
+            $description = array(
+                "sr_no",
+                "name",
+                "email",
+                "q1",
+                "gender",
+                "relation",
+                "time",
+                "frequency",
+                "advice",
+                "truth",
+                "job",
+                "help",
+                "rate",
+                "rate1",
+                "message"
+            );
+            if($no_rows == 0){
+                fputcsv($file_open, $description);
+            }
             if($no_rows > 1)
             {
                 $no_rows = ($no_rows - 1) + 1;
@@ -205,6 +225,7 @@
             $message = '';
             if (isset($_POST["submit"])){
                 session_destroy();
+                header('Location: index.php');
             }
         }
     }
